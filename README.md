@@ -1,4 +1,4 @@
-🚖 TaxisChicago: Ride-Sharing Insights for Zuber
+## 🚖 TaxisChicago: Ride-Sharing Insights for Zuber
 
 As part of my role as a data analyst for Zuber, a new ride-sharing startup launching in Chicago, my mission is to explore patterns in taxi ride data to better understand what drives passenger choices and how external factors affect ride frequency. 📊🌆
 
